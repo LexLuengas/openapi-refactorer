@@ -1,6 +1,6 @@
 {
   "name": "openapi-refactorer",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "author": "Alexis Luengas <alexis.luengas@gmail.com>",
   "description": "Break monolithic OpenAPI documents into several files (and put them back together).",
