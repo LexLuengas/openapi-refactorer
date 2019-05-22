@@ -4,6 +4,10 @@
   "license": "MIT",
   "author": "Alexis Luengas <alexis.luengas@gmail.com>",
   "description": "Break monolithic OpenAPI documents into several files (and put them back together).",
+  "repository": {
+    "type": "git",
+    "url": "github:LexLuengas/openapi-refactorer"
+  },
   "keywords": [
     "openapi",
     "swagger",
