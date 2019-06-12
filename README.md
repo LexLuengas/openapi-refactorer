@@ -183,7 +183,7 @@ get:
 
 ## Contributing
 
-I'm open for ideas to make OpenAPI Refactorer better. Just send a pull request or open an issue (especially it's more involved).
+I'm open for ideas to make OpenAPI Refactorer better. Just send a pull request or open an issue (especially if it's more involved).
 
 ## License
 [MIT](LICENSE) © 2019 Alexis Luengas
